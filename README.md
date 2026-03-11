@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/icon.png" alt="icon"  />
+  <img src="public/todo.png" alt="icon"  />
   <h1>Task Tracker</h1>
 </div>
 
